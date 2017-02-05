@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"$20 CAD, includes onsite breakfast, lunch, dinner and refreshments"},
+    "details": {"costs":"$25 USD, includes some food, probably"},
     "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
     "schedule":  [{"date": "Friday, March 03",
                   "times": [{"time": "6:00-9:00pm", "event": "Have fun"},

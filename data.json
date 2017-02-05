@@ -1,0 +1,48 @@
+{
+  "title": "San Francisco Brainhack 2017",
+  "location": "San Francisco, CA, USA",
+  "dates": "March 03-05, 2017",
+  "year": "2017",
+  "background_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
+  "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
+  "global_brainhack_organizers": ["Cameron Craddock"],
+  "registration_link":"http://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3711",
+  "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
+  "project_submit_link":"http://brainhack.org/submit-project/",
+  "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
+  "title_photo_author": "Wikipedia",
+  "services":[{
+    "name": "Share",
+    "desc": "Show your research to other neuroimaging researchers.",
+    "fa_icon": "fa-share-alt"
+    },
+  {"name": "Gain Skills",
+    "desc": "Learn how to apply the latest computational tools to you data.",
+    "fa_icon": "fa-graduation-cap"
+    },
+  {"name":"Get Involved",
+    "desc":"Find exciting projects that you would like to contribute to.",
+    "fa_icon":"fa-gears"},
+  {"name":"Be Social",
+    "desc":"Meet researchers from a variety of backgrounds.",
+    "fa_icon": "fa-wechat"}],
+    "details": {"costs":"$20 CAD, includes onsite breakfast, lunch, dinner and refreshments"},
+    "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
+    "schedule":  [{"date": "Friday, March 03",
+                  "times": [{"time": "6:00-9:00pm", "event": "Have fun"},
+                            {"time": "9:00pm-12:00am", "event": "Socialize"}]},
+                  {"date": "Saturday, March 04",
+                  "times": [{"time": "9:00-9:30", "event": "Breakfast"},
+                            {"time": "9:30-5:30pm", "event": "Hacking"}]},
+                  {"date": "Sunday, March 05",
+                  "times": [{"time": "9:00-9:30", "event": "Breakfast"},
+                            {"time": "9:30-5:30pm", "event": "Hacking"}]}
+                  ],
+    "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
+    "location_name": "Manylabs",
+    "location_url":"https://www.manylabs.org/",
+    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11289.96447919898!2d-122.4129674880236!3d37.77753278990755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858082235da2e7%3A0xb30be4b717ffde73!2sManylabs!5e0!3m2!1sen!2sus!4v1486322788908",
+    "sponsors": [{"name": "", "url": "", "logo":""}],
+    "organizers": ["Dan Lurie (chair)", "Anisha Keshavan", "JB Poline", "Russ Poldrack", "Chris Filo Gorgolewski", "Teon Brooks"]
+
+}

@@ -33,7 +33,7 @@
                             {"time": "6:30pm", "event": "Ice-Breaker"},
                             {"time": "7:00-8:00PM", "event": "Dinner+Brainstorming"},
                             {"time": "8:00pm", "event": "Project Pitches"},
-                            {"time": "9:00pm-", "event": "Socilaizing"}]},
+                            {"time": "9:00pm-", "event": "Socializing"}]},
                   {"date": "Saturday, March 04",
                   "times": [{"time": "9:30-10:30am", "event": "Breakfast + Project Planning"},
                             {"time": "10:30-11:30am", "event": "Keynote: Fernando Chirigati"},

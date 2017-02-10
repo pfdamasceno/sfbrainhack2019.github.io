@@ -253,6 +253,7 @@ hr.small {
 .workspace {
     display: table;
     width: 100%;
+    text-align: center;
     height: 800px;
     color: #fff;
     font-family: 'Comfortaa', cursive;

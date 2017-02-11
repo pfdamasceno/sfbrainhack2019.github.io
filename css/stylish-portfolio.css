@@ -254,6 +254,8 @@ hr.small {
     display: table;
     width: 100%;
     height: 120px;
+    text-align: center;
+    height: 800px
     color: #fff;
     font-family: 'Comfortaa', cursive;
     background: url(https://c2.staticflickr.com/4/3807/14270818136_7f8d5b06e4_o.jpg) no-repeat center center scroll;

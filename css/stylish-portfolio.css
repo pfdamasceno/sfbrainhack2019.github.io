@@ -17,7 +17,7 @@ body {
 }
 
 .text-color-blue {
-	color:#e24401;
+	color:#333;
 }
 .text-color-blue a {
 	color:#e24401;
@@ -200,7 +200,7 @@ hr.small {
 }
 
 .services a {
-    color: white;
+    color: #e24401;
 }
 
 .services a:focus, a:hover {

@@ -23,12 +23,16 @@ body {
 	color:#e24401;
 }
 
+/* Color and weight edited by Kirstie on 16th Feb */
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    color:white;
+    color:#000000;
     font-family: 'Comfortaa', cursive;
+    font-weight: 700;
+    font
 }
 
 .text-vertical-center h1 {
@@ -36,6 +40,7 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+    color:#000000;
 }
 
 /* Custom Button Styles */
@@ -166,7 +171,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/ClareCollegeAndKingsChapel.jpg) no-repeat center center scroll;
+    background: url(https://raw.githubusercontent.com/KirstieJane/cambrainhack2017.github.io/master/img/ClareCollegeAndKingsChapel_cropped.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -381,7 +386,7 @@ a:focus, a:hover {
 /* Color Theme*/
 
 .bg-primary {
-  color: #000000;
+  color: #fff;
   background-color: #3b2e26;
 }
 

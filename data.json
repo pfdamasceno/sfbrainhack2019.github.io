@@ -61,7 +61,7 @@
                             {"time": "2:00pm", "event": "Open hacking"},
                             {"time": "4:00pm", "event": "Report back, closing"},
                             {"time": "5:00pm", "event": "Wine reception"},
-                            {"time": "7:00pm", "event": "End of day"}]},
+                            {"time": "7:00pm", "event": "End of day"}]}
                   ],
     "location_logo": "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg",
     "location_name": "University Centre",

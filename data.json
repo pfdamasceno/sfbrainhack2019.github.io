@@ -52,6 +52,9 @@
     "location_name": "University Centre",
     "location_url":"http://www.unicen.cam.ac.uk/",
     "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9781.285336942767!2d0.1163891!3d52.2012078!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x51e7972ae1c796d!2sUniversity+Centre!5e0!3m2!1sen!2suk!4v1487253033137",
-    "sponsors": [{"name": "", "url": "", "logo":""}],
+    "sponsors": [{"name": "Wellcome Trust",
+                  "url": "https://wellcome.ac.uk/",
+                  "logo":"https://wellcome.ac.uk/sites/all/themes/corp_base/assets/images/logo.svg"},
+                 {"name": "Mozilla Science Lab", "url": "https://science.mozilla.org/", "logo":"https://bolarampaul.files.wordpress.com/2015/07/f21c4-mozilla-science-lab-logo.png"} ],
     "organizers": ["Kirstie Whitaker (chair)", "Matilde Vaghi", "Rezvan Farahibozorg", "Hilde Taverne", "Amber Ruigrok", "Richard Bethlehem", "Owen Parsons", "Jan Freyberg"]
 }

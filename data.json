@@ -1,12 +1,12 @@
 {
-  "title": "San Francisco Brainhack 2017",
-  "location": "San Francisco, CA, USA",
-  "dates": "March 03-05, 2017",
+  "title": "Cambridge Brainhack 2017",
+  "location": "Cambridge, UK",
+  "dates": "March 02-04, 2017",
   "year": "2017",
   "background_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"https://www.eventbrite.com/e/brainhack-global-san-francisco-2017-tickets-31948017380",
+  "registration_link":"https://www.eventbrite.co.uk/e/brainhack-global-2017-cambridge-tickets-27485125751",
   "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
   "project_submit_link":"http://brainhack.org/submit-project/",
   "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"$35 USD for students/postdocs/RAs, 65$ for faculty, includes onsite breakfast, lunch, and refreshments"},
+    "details": {"costs":"£10 per day or £25 for all three days, includes onsite coffee, lunch, and afternoon wine reception"},
     "schedule_background_img": "https://www.manylabs.org/file/general/home/optics-experiment.jpg",
     "schedule":  [{"date": "Friday, March 03",
                   "times": [{"time": "6pm", "event": "Welcome + Intro to Brainhack "},
@@ -49,10 +49,9 @@
                             {"time": "5:30-7:00pm", "event": "Project Presentations + Socialize"}]}
                   ],
     "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
-    "location_name": "Manylabs",
-    "location_url":"https://www.manylabs.org/",
-    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11289.96447919898!2d-122.4129674880236!3d37.77753278990755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858082235da2e7%3A0xb30be4b717ffde73!2sManylabs!5e0!3m2!1sen!2sus!4v1486322788908",
+    "location_name": "University Centre",
+    "location_url":"http://www.unicen.cam.ac.uk/",
+    "google_maps_link":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9781.285336942767!2d0.1163891!3d52.2012078!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x51e7972ae1c796d!2sUniversity+Centre!5e0!3m2!1sen!2suk!4v1487253033137",
     "sponsors": [{"name": "", "url": "", "logo":""}],
-    "organizers": ["Dan Lurie (chair)", "Anisha Keshavan", "JB Poline", "Russ Poldrack", "Chris Filo Gorgolewski", "Teon Brooks"]
-
+    "organizers": ["Kirstie Whitaker (chair)", "Matilde Vaghi", "Rezvan Farahibozorg", "Hilde Taverne", "Amber Ruigrok", "Richard Bethlehem", "Owen Parsons", "Jan Freyberg"]
 }

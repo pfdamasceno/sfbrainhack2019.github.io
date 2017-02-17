@@ -72,6 +72,9 @@
                   "logo":"https://raw.githubusercontent.com/KirstieJane/cambrainhack2017.github.io/master/img/wellcome.jpg"},
                  {"name": "Mozilla Science Lab",
                   "url": "https://science.mozilla.org/",
-                  "logo":"https://bolarampaul.files.wordpress.com/2015/07/f21c4-mozilla-science-lab-logo.png"} ],
+                  "logo":"https://bolarampaul.files.wordpress.com/2015/07/f21c4-mozilla-science-lab-logo.png"},
+                  {"name": "Overleaf",
+                   "url": "https://www.overleaf.com",
+                   "logo":"../img/Overleaf-logo-300dpi.png"}],
     "organizers": ["Kirstie Whitaker (chair)", "Matilde Vaghi", "Rezvan Farahibozorg", "Hilde Taverne", "Amber Ruigrok", "Richard Bethlehem", "Owen Parsons", "Jan Freyberg"]
 }

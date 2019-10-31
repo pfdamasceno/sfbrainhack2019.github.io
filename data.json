@@ -1,15 +1,15 @@
 {
-  "title": "San Francisco Brainhack 2017",
+  "title": "San Francisco Brainhack 2019",
   "location": "San Francisco, CA, USA",
-  "dates": "March 03-05, 2017",
-  "year": "2017",
-  "background_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
+  "dates": "November 14-15, 2019",
+  "year": "2019",
+  "background_img": "https://drive.google.com/file/d/1w1odlqfKCwQj3nNwwIwYsmLi1PWQn5Yk/view?usp=sharing",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
-  "registration_link":"https://www.eventbrite.com/e/brainhack-global-san-francisco-2017-tickets-31948017380",
-  "slack_link":"https://brainhack-slack-invite.herokuapp.com/",
-  "project_submit_link":"http://brainhack.org/submit-project/",
-  "title_photo_link":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Ggb_by_night.jpg",
+  "registration_link":"https://www.eventbrite.com/e/brainhack-global-san-francisco-2019-tickets-76825419899",
+  "slack_link":"https://urldefense.proofpoint.com/v2/url?u=https-3A__mattermost.brainhack.org_brainhack_channels_brainhack-2Dglobal-2D2019&d=DwMFaQ&c=iORugZls2LlYyCAZRB3XLg&r=U0BHv7kiA1bAHy66RZaD_9wwwdqFzqniUoP9My19LtA&m=7_Xqq-I9Bq53JCJd7rqM8-QzzQe9OEh6pbPiAwO4gmk&s=VQls9lYlmNQb_zaFLnXIisZ_vw8il4NMCNYaRfCxK64&e=",
+  "project_submit_link":"http://www.brainhack.org/submission.html",
+  "title_photo_link":"https://drive.google.com/file/d/1w1odlqfKCwQj3nNwwIwYsmLi1PWQn5Yk/view?usp=sharing",
   "title_photo_author": "Wikipedia",
   "services":[{
     "name": "Share",
@@ -42,10 +42,10 @@
                            {"time": "2:00-5:00pm", "event": "Open Hacking"},
                            {"time": "5:00-6:30pm", "event": "Unconference Sessions"}]}
                  ],
-    "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
+    "location_logo": "",
     "location_name": "UCSF Mission Bay Campus",
     "location_url":"https://www.ucsf.edu/about/locations/mission-bay",
-    "google_maps_link":"<iframe src=",
-    "sponsors": [{"name": "Center for Intelligent Imaging (CI2)", "url": "https://intelligentimaging.ucsf.edu/", "logo":""}],
+    "google_maps_link":"<iframe src=https://goo.gl/maps/LX51Vaj2sdcPovWE6",
+    "sponsors": [{"name": "Center for Intelligent Imaging (CI2)", "url": "https://intelligentimaging.ucsf.edu/", "logo":"https://drive.google.com/file/d/1u7seennfnyygJhEgyjYajRuA0DqyzgN2/view?usp=sharing"}],
     "organizers": ["Maryana Alegro", "Valentina Borghesani", "Pablo Damasceno", "Maria Luisa Mandelli", "Valentina Pedoia"]
 }

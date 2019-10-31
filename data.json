@@ -45,7 +45,7 @@
     "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
     "location_name": "UCSF Mission Bay Campus",
     "location_url":"https://www.ucsf.edu/about/locations/mission-bay",
-    "google_maps_link":"<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.978915189052!2d-122.3928981845206!3d37.76709257976089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7fcf5aa6273f%3A0x52885e87935fde43!2sMission%20Hall%20UCSF!5e0!3m2!1sen!2sus!4v1572487087051!5m2!1sen!2sus",
+    "google_maps_link":"<iframe src="",
     "sponsors": [{"name": "Center for Intelligent Imaging (CI2)", "url": "https://intelligentimaging.ucsf.edu/", "logo":""}],
     "organizers": ["Maryana Alegro", "Valentina Borghesani", "Pablo Damasceno", "Maria Luisa Mandelli", "Valentina Pedoia"]
 

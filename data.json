@@ -36,17 +36,16 @@
                             {"time": "9:00pm-", "event": "Socializing"}]},
                   {"date": "Friday, November 15",
                   "times": [{"time": "9:30-10:30am", "event": "Breakfast + Project Planning"},
-                            {"time": "10:30-11:30am", "event": "Keynote: Fernando Chirigati"},
+                            {"time": "10:30-11:30am", "event": "Keynote: xxxxxxx"},
                             {"time": "11:30-1pm", "event": "Open Hacking"},
                            {"time": "1:00-2:00pm", "event": "Lunch"},
                            {"time": "2:00-5:00pm", "event": "Open Hacking"},
-                           {"time": "5:00-6:30pm", "event": "Unconference Sessions"}]},
-                  ],
+                           {"time": "5:00-6:30pm", "event": "Unconference Sessions"}]}
+                 ],
     "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
     "location_name": "UCSF Mission Bay Campus",
     "location_url":"https://www.ucsf.edu/about/locations/mission-bay",
     "google_maps_link":"<iframe src=",
     "sponsors": [{"name": "Center for Intelligent Imaging (CI2)", "url": "https://intelligentimaging.ucsf.edu/", "logo":""}],
     "organizers": ["Maryana Alegro", "Valentina Borghesani", "Pablo Damasceno", "Maria Luisa Mandelli", "Valentina Pedoia"]
-
 }

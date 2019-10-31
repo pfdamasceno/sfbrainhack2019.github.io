@@ -45,7 +45,7 @@
     "location_logo": "https://a248.e.akamai.net/secure.meetupstatic.com/photos/event/5/0/1/7/highres_455060503.jpeg",
     "location_name": "UCSF Mission Bay Campus",
     "location_url":"https://www.ucsf.edu/about/locations/mission-bay",
-    "google_maps_link":"<iframe src="",
+    "google_maps_link":"<iframe src=",
     "sponsors": [{"name": "Center for Intelligent Imaging (CI2)", "url": "https://intelligentimaging.ucsf.edu/", "logo":""}],
     "organizers": ["Maryana Alegro", "Valentina Borghesani", "Pablo Damasceno", "Maria Luisa Mandelli", "Valentina Pedoia"]
 

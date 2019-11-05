@@ -7,7 +7,7 @@
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
   "global_brainhack_organizers": ["Cameron Craddock"],
   "registration_link":"https://www.eventbrite.com/e/brainhack-global-san-francisco-2019-tickets-76825419899",
-  "slack_link":"https://urldefense.proofpoint.com/v2/url?u=https-3A__mattermost.brainhack.org_brainhack_channels_brainhack-2Dglobal-2D2019&d=DwMFaQ&c=iORugZls2LlYyCAZRB3XLg&r=U0BHv7kiA1bAHy66RZaD_9wwwdqFzqniUoP9My19LtA&m=7_Xqq-I9Bq53JCJd7rqM8-QzzQe9OEh6pbPiAwO4gmk&s=VQls9lYlmNQb_zaFLnXIisZ_vw8il4NMCNYaRfCxK64&e=",
+  "slack_link":"https://www.mattermost.brainhack.org",
   "project_submit_link":"http://www.brainhack.org/submission.html",
   "title_photo_link":"https://www.flickr.com/photos/davidyuweb/",
   "title_photo_author": "David Yu",

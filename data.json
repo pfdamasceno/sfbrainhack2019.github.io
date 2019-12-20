@@ -1,7 +1,7 @@
 {
   "title": "San Francisco Brainhack 2020",
   "location": "San Francisco, CA, USA",
-  "dates": "January 23-24, 2020",
+  "dates": "February 20-21, 2020",
   "year": "2019",
   "background_img": "../img/sf_4.jpg",
   "color_theme": {"background": "#3b2e26", "font": "#fff", "link_color": "#e24401"},
@@ -26,7 +26,7 @@
   {"name":"Be Social",
     "desc":"Meet researchers from a variety of backgrounds.",
     "fa_icon": "fa-wechat"}],
-    "details": {"costs":"$5 USD for students/postdocs/RAs, 10$ for faculty, includes onsite breakfast and lunch"},
+    "details": {"costs":"Breakfast and lunch will be provided: $10 / day. Free admission."},
     "schedule_background_img": "../img/sf_3.jpg",
     "schedule": "TBD",
     "location_logo": "",
